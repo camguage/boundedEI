@@ -1,2 +1,2 @@
 # boundedEI
-Beginning stages of building R package to implement EI bounds
+Beginning stages of building R package to implement ecological inference bounds
