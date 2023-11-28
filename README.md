@@ -1,2 +1,2 @@
 # boundedEI
-Implement EI Bounds
+Beginning stages of building R package to implement EI bounds
